@@ -1,0 +1,12 @@
+[Unit]
+Description=Power Button Service
+After=multi-user.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/stanfield/power_button.py
+Restart=always
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
