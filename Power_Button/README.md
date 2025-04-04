@@ -28,3 +28,8 @@ Shutdown/reboot/power-on (Use GPIO3 (Pin 5) for shutdown and hardware power-on)
 Pin 5 and 6
 LED
 Pin 1 and 9
+
+
+The button MUST be a Momentary Push Button, this is the one I used. Purchased through Amazon.
+
+STARELO 5pcs 12mm Momentary led Push Button Switch Black Shell with pre-Wiring, IP65 Waterproof Push Button Switch,1NO 1 Normally,Self-resetting with LED(Blue).
